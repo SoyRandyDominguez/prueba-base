@@ -1,0 +1,12 @@
+{
+  "datasource": {
+    "host": "localhost",
+    "port": 0,
+    "url": "mysql://root:@localhost/pruebabase",
+    "database": "pruebabase",
+    "password": "",
+    "name": "datasource",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
